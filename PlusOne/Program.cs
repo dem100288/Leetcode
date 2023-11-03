@@ -29,7 +29,6 @@ public class Solution
             }
             var res = new int[digits.Length + 1];
             res[0] = 1;
-            digits.CopyTo(res, 1);
             return res;
         }
     }

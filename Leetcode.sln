@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthofLastWord", "Lengtho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{011DF701-4603-44F5-99B5-1207640308EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{BE194999-D29D-489E-9F3F-30FBFA83E298}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{011DF701-4603-44F5-99B5-1207640308EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{011DF701-4603-44F5-99B5-1207640308EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{011DF701-4603-44F5-99B5-1207640308EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE194999-D29D-489E-9F3F-30FBFA83E298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE194999-D29D-489E-9F3F-30FBFA83E298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE194999-D29D-489E-9F3F-30FBFA83E298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE194999-D29D-489E-9F3F-30FBFA83E298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
