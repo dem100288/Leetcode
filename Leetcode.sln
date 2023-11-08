@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{82692B0D-79B8-4974-B16B-9FEF191AB47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.csproj", "{223A6170-2957-421C-9E98-C7BC8E2E7D5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "Climbing Stairs\ClimbingStairs.csproj", "{223A6170-2957-421C-9E98-C7BC8E2E7D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
