@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{82692B0D-79B8-4974-B16B-9FEF191AB47A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.csproj", "{223A6170-2957-421C-9E98-C7BC8E2E7D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{82692B0D-79B8-4974-B16B-9FEF191AB47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82692B0D-79B8-4974-B16B-9FEF191AB47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82692B0D-79B8-4974-B16B-9FEF191AB47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223A6170-2957-421C-9E98-C7BC8E2E7D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223A6170-2957-421C-9E98-C7BC8E2E7D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223A6170-2957-421C-9E98-C7BC8E2E7D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223A6170-2957-421C-9E98-C7BC8E2E7D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
