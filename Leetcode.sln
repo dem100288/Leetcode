@@ -39,13 +39,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray", "MergeSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeInorderTraversal", "BinaryTreeInorderTraversal\BinaryTreeInorderTraversal.csproj", "{0E5473C4-BCB7-45D4-BE38-F948F758DD1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SameTree", "SameTree\SameTree.csproj", "{675547CD-5F42-4D03-8737-594E23E14C26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SameTree", "SameTree\SameTree.csproj", "{675547CD-5F42-4D03-8737-594E23E14C26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricTree", "SymmetricTree\SymmetricTree.csproj", "{949201CA-D997-464B-AE60-FF7DB634AEB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymmetricTree", "SymmetricTree\SymmetricTree.csproj", "{949201CA-D997-464B-AE60-FF7DB634AEB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDepthofBinaryTree", "MaximumDepthofBinaryTree\MaximumDepthofBinaryTree.csproj", "{3A99B3FE-5D9A-415A-91BD-B2DC0DDBEA68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepthofBinaryTree", "MaximumDepthofBinaryTree\MaximumDepthofBinaryTree.csproj", "{3A99B3FE-5D9A-415A-91BD-B2DC0DDBEA68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSortedArraytoBinarySearchTree", "ConvertSortedArraytoBinarySearchTree\ConvertSortedArraytoBinarySearchTree.csproj", "{13224460-0FC0-481A-9992-9A8F235CC1F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertSortedArraytoBinarySearchTree", "ConvertSortedArraytoBinarySearchTree\ConvertSortedArraytoBinarySearchTree.csproj", "{13224460-0FC0-481A-9992-9A8F235CC1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{976A7561-E6C9-4C55-9AD7-8D838B950A3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{13224460-0FC0-481A-9992-9A8F235CC1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13224460-0FC0-481A-9992-9A8F235CC1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13224460-0FC0-481A-9992-9A8F235CC1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
