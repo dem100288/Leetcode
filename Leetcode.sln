@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "Balan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDepthofBinaryTree", "MinimumDepthofBinaryTree\MinimumDepthofBinaryTree.csproj", "{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.csproj", "{AD6D478B-E271-48EF-9416-83A21DB53D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6D478B-E271-48EF-9416-83A21DB53D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6D478B-E271-48EF-9416-83A21DB53D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6D478B-E271-48EF-9416-83A21DB53D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6D478B-E271-48EF-9416-83A21DB53D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
