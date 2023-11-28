@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertSortedArraytoBinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{976A7561-E6C9-4C55-9AD7-8D838B950A3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDepthofBinaryTree", "MinimumDepthofBinaryTree\MinimumDepthofBinaryTree.csproj", "{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{976A7561-E6C9-4C55-9AD7-8D838B950A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
