@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePostorderTraversal", "BinaryTreePostorderTraversal\BinaryTreePostorderTraversal.csproj", "{10D6D14B-D9D7-4672-BC3E-CCA608A15FB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionofTwoLinkedLists", "IntersectionofTwoLinkedLists\IntersectionofTwoLinkedLists.csproj", "{3FE40CE9-BD17-4C15-9960-509ABF297439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{9886A785-6B98-485B-A55E-0B2032138CAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +211,14 @@ Global
 		{10D6D14B-D9D7-4672-BC3E-CCA608A15FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10D6D14B-D9D7-4672-BC3E-CCA608A15FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10D6D14B-D9D7-4672-BC3E-CCA608A15FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE40CE9-BD17-4C15-9960-509ABF297439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE40CE9-BD17-4C15-9960-509ABF297439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE40CE9-BD17-4C15-9960-509ABF297439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE40CE9-BD17-4C15-9960-509ABF297439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9886A785-6B98-485B-A55E-0B2032138CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886A785-6B98-485B-A55E-0B2032138CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9886A785-6B98-485B-A55E-0B2032138CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9886A785-6B98-485B-A55E-0B2032138CAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
