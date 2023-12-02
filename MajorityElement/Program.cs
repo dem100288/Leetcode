@@ -1,5 +1,4 @@
 ﻿//Majority Element
-Console.WriteLine((int)'A');
 Console.WriteLine(new Solution().MajorityElement(new int[] { 3, 2, 3, 4 }));
 Console.WriteLine(new Solution().MajorityElement(new int[] { 3, 2, 3 }));
 Console.WriteLine(new Solution().MajorityElement(new int[] { 2, 2, 1, 1, 1, 2, 2 }));

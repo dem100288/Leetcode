@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{99BE9A67-026A-476E-A441-DE90D7DFB4C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnNumber", "ExcelSheetColumnNumber\ExcelSheetColumnNumber.csproj", "{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{99BE9A67-026A-476E-A441-DE90D7DFB4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BE9A67-026A-476E-A441-DE90D7DFB4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BE9A67-026A-476E-A441-DE90D7DFB4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
