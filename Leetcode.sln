@@ -47,39 +47,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepthofBinaryTree", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertSortedArraytoBinarySearchTree", "ConvertSortedArraytoBinarySearchTree\ConvertSortedArraytoBinarySearchTree.csproj", "{13224460-0FC0-481A-9992-9A8F235CC1F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{976A7561-E6C9-4C55-9AD7-8D838B950A3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{976A7561-E6C9-4C55-9AD7-8D838B950A3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDepthofBinaryTree", "MinimumDepthofBinaryTree\MinimumDepthofBinaryTree.csproj", "{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDepthofBinaryTree", "MinimumDepthofBinaryTree\MinimumDepthofBinaryTree.csproj", "{A38F2F7D-B4A0-41BF-AE5B-768C53D668C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.csproj", "{AD6D478B-E271-48EF-9416-83A21DB53D33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathSum", "PathSum\PathSum.csproj", "{AD6D478B-E271-48EF-9416-83A21DB53D33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{4F713E49-D58F-41F4-9B2F-5BB2359C54C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{4F713E49-D58F-41F4-9B2F-5BB2359C54C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle2", "PascalsTriangle2\PascalsTriangle2.csproj", "{8C475928-4569-47D5-AF4A-0B2FA707969F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle2", "PascalsTriangle2\PascalsTriangle2.csproj", "{8C475928-4569-47D5-AF4A-0B2FA707969F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimetoBuyandSellStock", "BestTimetoBuyandSellStock\BestTimetoBuyandSellStock.csproj", "{13CFB1CF-56A7-42FF-808D-F7D838616B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimetoBuyandSellStock", "BestTimetoBuyandSellStock\BestTimetoBuyandSellStock.csproj", "{13CFB1CF-56A7-42FF-808D-F7D838616B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{3F9051CB-AF9B-4370-A021-44E92DC5B9D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{3F9051CB-AF9B-4370-A021-44E92DC5B9D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{6AFD72B6-26E4-4377-9654-5C31B5C6846D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{6AFD72B6-26E4-4377-9654-5C31B5C6846D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{891BA537-FBE3-4E2F-A507-C3B41979342C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{891BA537-FBE3-4E2F-A507-C3B41979342C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\BinaryTreePreorderTraversal.csproj", "{E69CB1E8-B8FF-4C00-9AEF-91624044016B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\BinaryTreePreorderTraversal.csproj", "{E69CB1E8-B8FF-4C00-9AEF-91624044016B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePostorderTraversal", "BinaryTreePostorderTraversal\BinaryTreePostorderTraversal.csproj", "{10D6D14B-D9D7-4672-BC3E-CCA608A15FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreePostorderTraversal", "BinaryTreePostorderTraversal\BinaryTreePostorderTraversal.csproj", "{10D6D14B-D9D7-4672-BC3E-CCA608A15FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionofTwoLinkedLists", "IntersectionofTwoLinkedLists\IntersectionofTwoLinkedLists.csproj", "{3FE40CE9-BD17-4C15-9960-509ABF297439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionofTwoLinkedLists", "IntersectionofTwoLinkedLists\IntersectionofTwoLinkedLists.csproj", "{3FE40CE9-BD17-4C15-9960-509ABF297439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{9886A785-6B98-485B-A55E-0B2032138CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{9886A785-6B98-485B-A55E-0B2032138CAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{99BE9A67-026A-476E-A441-DE90D7DFB4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{99BE9A67-026A-476E-A441-DE90D7DFB4C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnNumber", "ExcelSheetColumnNumber\ExcelSheetColumnNumber.csproj", "{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelSheetColumnNumber", "ExcelSheetColumnNumber\ExcelSheetColumnNumber.csproj", "{EFAC773B-9D4C-4BEF-BB4A-347B4A25CCF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseBits", "ReverseBits\ReverseBits.csproj", "{9421C67F-65E2-4921-AEC9-840D1069FEF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseBits", "ReverseBits\ReverseBits.csproj", "{9421C67F-65E2-4921-AEC9-840D1069FEF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numberof1Bits", "Numberof1Bits\Numberof1Bits.csproj", "{AF73F695-2F8A-4077-9BB0-9601AC416557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numberof1Bits", "Numberof1Bits\Numberof1Bits.csproj", "{AF73F695-2F8A-4077-9BB0-9601AC416557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{FDB45BAE-9F22-48B9-BAF6-362D985C91E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{AF73F695-2F8A-4077-9BB0-9601AC416557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF73F695-2F8A-4077-9BB0-9601AC416557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF73F695-2F8A-4077-9BB0-9601AC416557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB45BAE-9F22-48B9-BAF6-362D985C91E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB45BAE-9F22-48B9-BAF6-362D985C91E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB45BAE-9F22-48B9-BAF6-362D985C91E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB45BAE-9F22-48B9-BAF6-362D985C91E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
