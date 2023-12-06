@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Linked List Elements", "Remove Linked List Elements\Remove Linked List Elements.csproj", "{927F8A8F-DBC2-426A-A2FC-51EF82703232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{02632086-6229-4991-A247-3190AE372060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{927F8A8F-DBC2-426A-A2FC-51EF82703232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927F8A8F-DBC2-426A-A2FC-51EF82703232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927F8A8F-DBC2-426A-A2FC-51EF82703232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02632086-6229-4991-A247-3190AE372060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02632086-6229-4991-A247-3190AE372060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02632086-6229-4991-A247-3190AE372060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02632086-6229-4991-A247-3190AE372060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
