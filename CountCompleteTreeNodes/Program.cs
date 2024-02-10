@@ -16,6 +16,7 @@ n13.left = n16;
 
 Console.WriteLine(new Solution().CountNodes(n11));
 Console.WriteLine(new Solution().CountNodes(null));
+Console.WriteLine(new Solution().CountNodes(null));
 Console.WriteLine(new Solution().CountNodes(n21));
 
 
