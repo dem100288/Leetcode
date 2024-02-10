@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCompleteTreeNodes", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStackusingQueues", "ImplementStackusingQueues\ImplementStackusingQueues.csproj", "{0A60CD0F-130F-48EB-AE7A-2423E6B4EAA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{0A60CD0F-130F-48EB-AE7A-2423E6B4EAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A60CD0F-130F-48EB-AE7A-2423E6B4EAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A60CD0F-130F-48EB-AE7A-2423E6B4EAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
