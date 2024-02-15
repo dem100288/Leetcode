@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicSubstrings", "PalindromicSubstrings\PalindromicSubstrings.csproj", "{15AE1EE3-611B-4322-9711-0C90959130BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPolygonWiththeLargestPerimeter", "FindPolygonWiththeLargestPerimeter\FindPolygonWiththeLargestPerimeter.csproj", "{71FB8E63-0573-468B-8EFC-9153603EABAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{15AE1EE3-611B-4322-9711-0C90959130BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15AE1EE3-611B-4322-9711-0C90959130BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15AE1EE3-611B-4322-9711-0C90959130BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FB8E63-0573-468B-8EFC-9153603EABAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FB8E63-0573-468B-8EFC-9153603EABAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FB8E63-0573-468B-8EFC-9153603EABAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FB8E63-0573-468B-8EFC-9153603EABAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

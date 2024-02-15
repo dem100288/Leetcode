@@ -1,7 +1,4 @@
-﻿
-using System.Linq;
-
-Console.WriteLine(new Solution().CountSubstrings("abc"));
+﻿Console.WriteLine(new Solution().CountSubstrings("abc"));
 Console.WriteLine(new Solution().CountSubstrings("aaa"));
 
 Console.ReadKey();
