@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingWindowMedian", "Slid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurthestBuildingYouCanReach", "FurthestBuildingYouCanReach\FurthestBuildingYouCanReach.csproj", "{37C5D729-08A0-4DC9-BE35-46B8DC169959}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{37C5D729-08A0-4DC9-BE35-46B8DC169959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C5D729-08A0-4DC9-BE35-46B8DC169959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C5D729-08A0-4DC9-BE35-46B8DC169959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
