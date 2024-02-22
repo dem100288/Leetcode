@@ -131,6 +131,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindtheTownJudge", "Findthe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{793605F6-217F-48AF-BCF9-71BE6E961DBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths.csproj", "{BDEA19AC-5584-4A10-8838-6F65B6A21704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEA19AC-5584-4A10-8838-6F65B6A21704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEA19AC-5584-4A10-8838-6F65B6A21704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEA19AC-5584-4A10-8838-6F65B6A21704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEA19AC-5584-4A10-8838-6F65B6A21704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
