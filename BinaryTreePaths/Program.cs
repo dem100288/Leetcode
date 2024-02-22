@@ -1,5 +1,5 @@
-﻿Console.WriteLine(new Solution().IsAnagram(new TreeNode(1, new TreeNode(2, null, new TreeNode(5)), new TreeNode(3)))); // ["1->2->5","1->3"]
-Console.WriteLine(new Solution().IsAnagram(new TreeNode(1))); // ["1"]
+﻿Console.WriteLine(new Solution().BinaryTreePaths(new TreeNode(1, new TreeNode(2, null, new TreeNode(5)), new TreeNode(3)))); // ["1->2->5","1->3"]
+Console.WriteLine(new Solution().BinaryTreePaths(new TreeNode(1))); // ["1"]
 
 
 Console.ReadKey();
