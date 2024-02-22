@@ -89,43 +89,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "Isomor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{C628A04B-278E-4531-A3EE-FC66C05CCDE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{A5259188-4871-471B-BC60-5DA508B9FC9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{A5259188-4871-471B-BC60-5DA508B9FC9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicateIII", "ContainsDuplicateIII\ContainsDuplicateIII.csproj", "{E9748320-E65A-4DC9-BDD6-BBE11A364E49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicateIII", "ContainsDuplicateIII\ContainsDuplicateIII.csproj", "{E9748320-E65A-4DC9-BDD6-BBE11A364E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicateII", "ContainsDuplicateII\ContainsDuplicateII.csproj", "{36C7E703-E4F6-4D31-A74B-A9DD93D0FDA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicateII", "ContainsDuplicateII\ContainsDuplicateII.csproj", "{36C7E703-E4F6-4D31-A74B-A9DD93D0FDA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCompleteTreeNodes", "CountCompleteTreeNodes\CountCompleteTreeNodes.csproj", "{72B9F9C0-56E0-494E-AF9A-981DEFA1ECA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCompleteTreeNodes", "CountCompleteTreeNodes\CountCompleteTreeNodes.csproj", "{72B9F9C0-56E0-494E-AF9A-981DEFA1ECA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStackusingQueues", "ImplementStackusingQueues\ImplementStackusingQueues.csproj", "{0A60CD0F-130F-48EB-AE7A-2423E6B4EAA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementStackusingQueues", "ImplementStackusingQueues\ImplementStackusingQueues.csproj", "{0A60CD0F-130F-48EB-AE7A-2423E6B4EAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{6E466CF9-EB94-40AC-A8CA-D674A3D2687F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicSubstrings", "PalindromicSubstrings\PalindromicSubstrings.csproj", "{15AE1EE3-611B-4322-9711-0C90959130BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromicSubstrings", "PalindromicSubstrings\PalindromicSubstrings.csproj", "{15AE1EE3-611B-4322-9711-0C90959130BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPolygonWiththeLargestPerimeter", "FindPolygonWiththeLargestPerimeter\FindPolygonWiththeLargestPerimeter.csproj", "{71FB8E63-0573-468B-8EFC-9153603EABAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindPolygonWiththeLargestPerimeter", "FindPolygonWiththeLargestPerimeter\FindPolygonWiththeLargestPerimeter.csproj", "{71FB8E63-0573-468B-8EFC-9153603EABAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastNumberofUniqueIntegersafterKRemovals", "LeastNumberofUniqueIntegersafterKRemovals\LeastNumberofUniqueIntegersafterKRemovals.csproj", "{E2A04ED8-DFAF-4FF1-B269-A237D34767AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeastNumberofUniqueIntegersafterKRemovals", "LeastNumberofUniqueIntegersafterKRemovals\LeastNumberofUniqueIntegersafterKRemovals.csproj", "{E2A04ED8-DFAF-4FF1-B269-A237D34767AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRanges", "SummaryRanges\SummaryRanges.csproj", "{B5B56D7A-FFC9-40FA-9D5A-8F4C68927F66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummaryRanges", "SummaryRanges\SummaryRanges.csproj", "{B5B56D7A-FFC9-40FA-9D5A-8F4C68927F66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerofTwo", "PowerofTwo\PowerofTwo.csproj", "{9D5ACCEA-971B-4DB6-B752-3156FA9E707F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerofTwo", "PowerofTwo\PowerofTwo.csproj", "{9D5ACCEA-971B-4DB6-B752-3156FA9E707F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.csproj", "{1FF86A45-39E4-48D4-9321-9440D33B7D9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.csproj", "{1FF86A45-39E4-48D4-9321-9440D33B7D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementQueueusingStacks", "ImplementQueueusingStacks\ImplementQueueusingStacks.csproj", "{08A4D786-27AE-4E45-AE1C-2DE740C47986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementQueueusingStacks", "ImplementQueueusingStacks\ImplementQueueusingStacks.csproj", "{08A4D786-27AE-4E45-AE1C-2DE740C47986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMedianfromDataStream", "FindMedianfromDataStream\FindMedianfromDataStream.csproj", "{C69AE573-6F51-4898-99A0-5D37B1825175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMedianfromDataStream", "FindMedianfromDataStream\FindMedianfromDataStream.csproj", "{C69AE573-6F51-4898-99A0-5D37B1825175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingWindowMedian", "SlidingWindowMedian\SlidingWindowMedian.csproj", "{3330D4B0-8C4D-4922-ACFB-5B2A1FE32ACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlidingWindowMedian", "SlidingWindowMedian\SlidingWindowMedian.csproj", "{3330D4B0-8C4D-4922-ACFB-5B2A1FE32ACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurthestBuildingYouCanReach", "FurthestBuildingYouCanReach\FurthestBuildingYouCanReach.csproj", "{37C5D729-08A0-4DC9-BE35-46B8DC169959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FurthestBuildingYouCanReach", "FurthestBuildingYouCanReach\FurthestBuildingYouCanReach.csproj", "{37C5D729-08A0-4DC9-BE35-46B8DC169959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{C9A9FFC8-0DC7-4759-895C-CEC0E50872B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{7E739EEE-94F0-4518-B069-0A45B0C1D1A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{7E739EEE-94F0-4518-B069-0A45B0C1D1A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseANDofNumbersRange", "BitwiseANDofNumbersRange\BitwiseANDofNumbersRange.csproj", "{166AE308-A068-4A60-885F-67285A1728DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseANDofNumbersRange", "BitwiseANDofNumbersRange\BitwiseANDofNumbersRange.csproj", "{166AE308-A068-4A60-885F-67285A1728DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindtheTownJudge", "FindtheTownJudge\FindtheTownJudge.csproj", "{F23D315D-1661-48C6-BC71-36CF16643452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,6 +383,10 @@ Global
 		{166AE308-A068-4A60-885F-67285A1728DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166AE308-A068-4A60-885F-67285A1728DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{166AE308-A068-4A60-885F-67285A1728DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23D315D-1661-48C6-BC71-36CF16643452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23D315D-1661-48C6-BC71-36CF16643452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23D315D-1661-48C6-BC71-36CF16643452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23D315D-1661-48C6-BC71-36CF16643452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
