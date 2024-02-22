@@ -127,7 +127,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeLinkedList", "Pal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseANDofNumbersRange", "BitwiseANDofNumbersRange\BitwiseANDofNumbersRange.csproj", "{166AE308-A068-4A60-885F-67285A1728DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindtheTownJudge", "FindtheTownJudge\FindtheTownJudge.csproj", "{F23D315D-1661-48C6-BC71-36CF16643452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindtheTownJudge", "FindtheTownJudge\FindtheTownJudge.csproj", "{F23D315D-1661-48C6-BC71-36CF16643452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{793605F6-217F-48AF-BCF9-71BE6E961DBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -387,6 +389,10 @@ Global
 		{F23D315D-1661-48C6-BC71-36CF16643452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F23D315D-1661-48C6-BC71-36CF16643452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F23D315D-1661-48C6-BC71-36CF16643452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793605F6-217F-48AF-BCF9-71BE6E961DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
