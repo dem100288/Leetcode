@@ -129,15 +129,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseANDofNumbersRange", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindtheTownJudge", "FindtheTownJudge\FindtheTownJudge.csproj", "{F23D315D-1661-48C6-BC71-36CF16643452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{793605F6-217F-48AF-BCF9-71BE6E961DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{793605F6-217F-48AF-BCF9-71BE6E961DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths.csproj", "{BDEA19AC-5584-4A10-8838-6F65B6A21704}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths.csproj", "{BDEA19AC-5584-4A10-8838-6F65B6A21704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDigits", "AddDigits\AddDigits.csproj", "{26B5C8BD-AFFA-433D-B6A9-55C78B8FAB6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddDigits", "AddDigits\AddDigits.csproj", "{26B5C8BD-AFFA-433D-B6A9-55C78B8FAB6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllPeopleWithSecret", "FindAllPeopleWithSecret\FindAllPeopleWithSecret.csproj", "{97555F83-4B36-4713-B0CA-5CAAEDA22F96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAllPeopleWithSecret", "FindAllPeopleWithSecret\FindAllPeopleWithSecret.csproj", "{97555F83-4B36-4713-B0CA-5CAAEDA22F96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100SameTree", "100SameTree\100SameTree.csproj", "{5AC50966-F7D5-463A-B241-B4F33872AEB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100SameTree", "100SameTree\100SameTree.csproj", "{5AC50966-F7D5-463A-B241-B4F33872AEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{F8DA2DC8-B282-4579-AF93-1B560518F408}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -417,6 +419,10 @@ Global
 		{5AC50966-F7D5-463A-B241-B4F33872AEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC50966-F7D5-463A-B241-B4F33872AEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC50966-F7D5-463A-B241-B4F33872AEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
