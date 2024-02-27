@@ -141,6 +141,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100SameTree", "100SameTree\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{F8DA2DC8-B282-4579-AF93-1B560518F408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiameterofBinaryTree", "DiameterofBinaryTree\DiameterofBinaryTree.csproj", "{3DC7FD6D-A47A-44C8-A465-536F959F95B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +425,10 @@ Global
 		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DA2DC8-B282-4579-AF93-1B560518F408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
