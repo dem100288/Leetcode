@@ -147,6 +147,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindBottomLeftTreeValue", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{AED16968-17B5-4B27-BC46-4086952305F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\WordPattern.csproj", "{3C34E426-8C34-4328-AD03-63075F022B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{AED16968-17B5-4B27-BC46-4086952305F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED16968-17B5-4B27-BC46-4086952305F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED16968-17B5-4B27-BC46-4086952305F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C34E426-8C34-4328-AD03-63075F022B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C34E426-8C34-4328-AD03-63075F022B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C34E426-8C34-4328-AD03-63075F022B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C34E426-8C34-4328-AD03-63075F022B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
