@@ -139,11 +139,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAllPeopleWithSecret", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100SameTree", "100SameTree\100SameTree.csproj", "{5AC50966-F7D5-463A-B241-B4F33872AEB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{F8DA2DC8-B282-4579-AF93-1B560518F408}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBadVersion\FirstBadVersion.csproj", "{F8DA2DC8-B282-4579-AF93-1B560518F408}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiameterofBinaryTree", "DiameterofBinaryTree\DiameterofBinaryTree.csproj", "{3DC7FD6D-A47A-44C8-A465-536F959F95B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiameterofBinaryTree", "DiameterofBinaryTree\DiameterofBinaryTree.csproj", "{3DC7FD6D-A47A-44C8-A465-536F959F95B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBottomLeftTreeValue", "FindBottomLeftTreeValue\FindBottomLeftTreeValue.csproj", "{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindBottomLeftTreeValue", "FindBottomLeftTreeValue\FindBottomLeftTreeValue.csproj", "{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{AED16968-17B5-4B27-BC46-4086952305F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +437,10 @@ Global
 		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED16968-17B5-4B27-BC46-4086952305F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED16968-17B5-4B27-BC46-4086952305F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED16968-17B5-4B27-BC46-4086952305F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED16968-17B5-4B27-BC46-4086952305F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
