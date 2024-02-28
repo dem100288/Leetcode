@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiameterofBinaryTree", "DiameterofBinaryTree\DiameterofBinaryTree.csproj", "{3DC7FD6D-A47A-44C8-A465-536F959F95B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBottomLeftTreeValue", "FindBottomLeftTreeValue\FindBottomLeftTreeValue.csproj", "{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC7FD6D-A47A-44C8-A465-536F959F95B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACF6CCC-3B5E-4968-B1E9-9CE7248DA290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
