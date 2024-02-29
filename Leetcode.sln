@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimGame", "NimGame\NimGame.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSumQueryImmutable", "RangeSumQueryImmutable\RangeSumQueryImmutable.csproj", "{998B4C99-7275-4E4F-BD21-5ADDC67E9EE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddTree", "EvenOddTree\EvenOddTree.csproj", "{6DF64E40-84AB-4177-958F-66A075156AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +461,10 @@ Global
 		{998B4C99-7275-4E4F-BD21-5ADDC67E9EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{998B4C99-7275-4E4F-BD21-5ADDC67E9EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{998B4C99-7275-4E4F-BD21-5ADDC67E9EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF64E40-84AB-4177-958F-66A075156AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF64E40-84AB-4177-958F-66A075156AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF64E40-84AB-4177-958F-66A075156AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF64E40-84AB-4177-958F-66A075156AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
