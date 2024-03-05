@@ -155,15 +155,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeSumQueryImmutable", "R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOddTree", "EvenOddTree\EvenOddTree.csproj", "{6DF64E40-84AB-4177-958F-66A075156AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumOddBinaryNumber", "MaximumOddBinaryNumber\MaximumOddBinaryNumber.csproj", "{8ADEDF4F-AA50-401C-A269-0BBC58B3A92B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumOddBinaryNumber", "MaximumOddBinaryNumber\MaximumOddBinaryNumber.csproj", "{8ADEDF4F-AA50-401C-A269-0BBC58B3A92B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinCostClimbingStairs", "MinCostClimbingStairs\MinCostClimbingStairs.csproj", "{26EC1FBB-4406-434B-979C-B7509D4768EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinCostClimbingStairs", "MinCostClimbingStairs\MinCostClimbingStairs.csproj", "{26EC1FBB-4406-434B-979C-B7509D4768EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresofaSortedArray", "SquaresofaSortedArray\SquaresofaSortedArray.csproj", "{434F2D47-63B8-4F96-837E-D97FAC5BB1F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresofaSortedArray", "SquaresofaSortedArray\SquaresofaSortedArray.csproj", "{434F2D47-63B8-4F96-837E-D97FAC5BB1F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductoftheLastKNumbers", "ProductoftheLastKNumbers\ProductoftheLastKNumbers.csproj", "{B591E7B7-54E1-40E7-AAEF-5FEC780D861C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductoftheLastKNumbers", "ProductoftheLastKNumbers\ProductoftheLastKNumbers.csproj", "{B591E7B7-54E1-40E7-AAEF-5FEC780D861C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagofTokens", "BagofTokens\BagofTokens.csproj", "{5C16380E-AC39-4D43-AF5B-53D4F07BEA13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BagofTokens", "BagofTokens\BagofTokens.csproj", "{5C16380E-AC39-4D43-AF5B-53D4F07BEA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumLengthofStringAfterDeletingSimilarEnds", "MinimumLengthofStringAfterDeletingSimilarEnds\MinimumLengthofStringAfterDeletingSimilarEnds.csproj", "{DC66272D-D9A6-45A5-ADBF-27A1EE3DF8C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -495,6 +497,10 @@ Global
 		{5C16380E-AC39-4D43-AF5B-53D4F07BEA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C16380E-AC39-4D43-AF5B-53D4F07BEA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C16380E-AC39-4D43-AF5B-53D4F07BEA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC66272D-D9A6-45A5-ADBF-27A1EE3DF8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC66272D-D9A6-45A5-ADBF-27A1EE3DF8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC66272D-D9A6-45A5-ADBF-27A1EE3DF8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC66272D-D9A6-45A5-ADBF-27A1EE3DF8C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
