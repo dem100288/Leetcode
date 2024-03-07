@@ -35,6 +35,18 @@ public class Solution
 {
     public bool HasCycle(ListNode head)
     {
+        ListNode? step_one = head;
+        ListNode? step_two = head?.next?.next;
+        while (step_one is not null && step_two is not null)
+        {
+            if (step_one == step_two) return true;
+            step_one = step_one.next;
+            step_two = step_two?.next?.next;
+        }
+        return false;
+    }
+    public bool HasCycle2(ListNode head)
+    {
         while (head != null)
         {
             if (head.val == int.MaxValue) return true;
