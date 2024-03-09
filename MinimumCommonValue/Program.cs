@@ -3,6 +3,7 @@ Console.WriteLine(new Solution().GetCommon(new int[] { 1, 2, 3, 6 }, new int[] {
 
 Console.ReadKey();
 
+
 public class Solution
 {
     public int GetCommon(int[] nums1, int[] nums2)
