@@ -169,7 +169,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumLengthofStringAfterD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleoftheLinkedList", "MiddleoftheLinkedList\MiddleoftheLinkedList.csproj", "{6AFD56BD-0366-427F-A5FC-E8B84224DDB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCommonValue", "MinimumCommonValue\MinimumCommonValue.csproj", "{2ED93639-743D-464D-B6E8-86D234796986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumCommonValue", "MinimumCommonValue\MinimumCommonValue.csproj", "{2ED93639-743D-464D-B6E8-86D234796986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSortString", "CustomSortString\CustomSortString.csproj", "{DF1CA9DE-F8BA-4B44-AA97-AFB7FD3D5811}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -513,6 +515,10 @@ Global
 		{2ED93639-743D-464D-B6E8-86D234796986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ED93639-743D-464D-B6E8-86D234796986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ED93639-743D-464D-B6E8-86D234796986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1CA9DE-F8BA-4B44-AA97-AFB7FD3D5811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1CA9DE-F8BA-4B44-AA97-AFB7FD3D5811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1CA9DE-F8BA-4B44-AA97-AFB7FD3D5811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1CA9DE-F8BA-4B44-AA97-AFB7FD3D5811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
