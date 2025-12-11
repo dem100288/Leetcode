@@ -179,6 +179,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacentIncreasingSubarrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacentIncreasingSubarraysDetectionII", "AdjacentIncreasingSubarraysDetectionII\AdjacentIncreasingSubarraysDetectionII.csproj", "{7CC8DE99-2A2D-4B79-A8CF-23D0832017D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestMissingNon-negativeIntegerAfterOperations", "SmallestMissingNon-negativeIntegerAfterOperations\SmallestMissingNon-negativeIntegerAfterOperations.csproj", "{B60C3ECF-AD29-449E-9076-85E242224D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCoveredBuildings", "CountCoveredBuildings\CountCoveredBuildings.csproj", "{0BBA230A-3DD7-4E18-AA40-FD5D6FBD907C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +541,14 @@ Global
 		{7CC8DE99-2A2D-4B79-A8CF-23D0832017D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC8DE99-2A2D-4B79-A8CF-23D0832017D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC8DE99-2A2D-4B79-A8CF-23D0832017D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60C3ECF-AD29-449E-9076-85E242224D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60C3ECF-AD29-449E-9076-85E242224D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60C3ECF-AD29-449E-9076-85E242224D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60C3ECF-AD29-449E-9076-85E242224D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBA230A-3DD7-4E18-AA40-FD5D6FBD907C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBA230A-3DD7-4E18-AA40-FD5D6FBD907C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBA230A-3DD7-4E18-AA40-FD5D6FBD907C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBA230A-3DD7-4E18-AA40-FD5D6FBD907C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
